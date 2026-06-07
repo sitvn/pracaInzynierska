@@ -1,1 +1,1 @@
-# pracaInzynierska
+Aplikacja przedstawiona w repozytorium została wykonano do pracy inżynierskiej pod tytułem "projekt i opracowanie aplikacji do podstawowych obliczeń geodezyjnych na elipsoidzie". Aplikacja została wykonana przy użyciu języka programowania python 3.11.9. Program wykorzystuje GUI oraz złożone algorytmy obliczeń geodezyjnych. Działanie aplikacji zostało szczegółowo przedstawione w załączonej pracy inżynierskiej.
